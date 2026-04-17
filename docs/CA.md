@@ -36,3 +36,23 @@ This project implements
 But it focuses on coding tasks.
 Hermes is going as a long-live personal assistant, ready to handle more than coding tasks.
 
+### AgenticMesh
+
+This project implements
+- central control plane behavior
+- routing and policy
+- dynamic registration
+- observability
+- failover
+- security
+- enterprise deployment patterns
+
+This is a serious infrastructure product.
+
+Very sophisticated collaboration pattern:
+
+- peer-like relationship modeling
+- explicit user-authored communication graphs
+- group-based collaboration as a first-class concept
+- human-readable team structure
+
